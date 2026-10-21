@@ -32,5 +32,5 @@ O modelo foi treinado utilizando técnicas de *Early Stopping* para restaurar os
 
 1. Clone o repositório:
    ```bash
-   git clone [https://github.com/seu-usuario/cnn-food-101.git](https://github.com/seu-usuario/cnn-food-101.git)
+   git clone [https://github.com/jubcohen/cnn-food-101.git](https://github.com/jubcohen/cnn-food-101.git)
    cd cnn-food-101
